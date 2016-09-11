@@ -1,0 +1,9 @@
+
+:host /deep/ .index-column,
+:host /deep/ .index-column-header {
+    text-align: right;
+}
+
+:host /deep/ .data-table .data-table-row.selected {
+    background-color: #E4EDF9;
+}
