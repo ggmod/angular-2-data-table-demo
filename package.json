@@ -1,5 +1,5 @@
 {
-  "name": "angular2-quickstart",
+  "name": "angular-2-data-table-demo",
   "version": "1.0.0",
   "description": "QuickStart package.json from the documentation, supplemented with testing support",
   "scripts": {
@@ -40,8 +40,8 @@
 
     "angular2-in-memory-web-api": "0.0.18",
     "bootstrap": "^3.3.6",
-    
-    "ng2-data-table": "file:../ng2-data-table"
+
+    "angular-2-data-table": "0.1.0"
   },
   "devDependencies": {
     "concurrently": "^2.2.0",
