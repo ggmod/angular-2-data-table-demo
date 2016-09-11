@@ -26,6 +26,7 @@
       // other libraries
       'rxjs':                       'npm:rxjs',
       'angular2-in-memory-web-api': 'npm:angular2-in-memory-web-api',
+      'ng2-data-table': 'npm:ng2-data-table/dist'
     },
     // packages tells the System loader how to load when no filename and/or no extension
     packages: {
@@ -39,6 +40,11 @@
       'angular2-in-memory-web-api': {
         main: './index.js',
         defaultExtension: 'js'
+      },
+      'ng2-data-table': {
+        format: 'cjs',
+        defaultExtension: 'js',
+        main: 'index.js'
       }
     }
   });
