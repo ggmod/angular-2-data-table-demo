@@ -1,11 +1,11 @@
 .idea
-typings/**
-node_modules
+#typings/**
+#node_modules
 jspm_packages
 link-checker-results.txt
 npm-debug.log
-*.js
-*.js.map
+#*.js
+#*.js.map
 e2e/**/*.js
 e2e/**/*.js.map
 _test-output
